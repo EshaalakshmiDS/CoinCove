@@ -2,10 +2,6 @@
 
 Cryptocurrency Tracker is a responsive web application built with React JS, Material UI, and Chart JS. It allows users to track cryptocurrency prices and trends using data fetched from the Coin Gecko API. The app utilizes Context API for state management and Axios for making API requests.
 
-## Demo
-
-Check out the live demo [here](https://crypto-hunter.netlify.app/).
-
 ## Built with
 
 - React JS
