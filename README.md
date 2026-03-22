@@ -4,15 +4,12 @@ A responsive, dark-themed web application for tracking real-time cryptocurrency 
 
 ---
 
-## Live Demo
-
-> _Link will be added after deployment_
-
----
-
 ## Screenshots
+<img width="2500" height="1122" alt="2" src="https://github.com/user-attachments/assets/ef1eeec7-4c7d-4f18-a0c7-6002c3039c3e" />
+<img width="2518" height="1090" alt="1" src="https://github.com/user-attachments/assets/d248f2bc-203c-4912-98fd-3f6049b7ca0c" />
+<img width="2552" height="1062" alt="4" src="https://github.com/user-attachments/assets/0038e297-47fa-4319-b3c6-b1b04ff47568" />
+<img width="2512" height="1122" alt="3" src="https://github.com/user-attachments/assets/c5b9fe6e-aaf1-4d06-814d-e7f70dc47ddf" />
 
-> _Coming soon_
 
 ---
 
