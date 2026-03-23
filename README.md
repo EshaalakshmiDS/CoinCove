@@ -4,6 +4,10 @@ A responsive, dark-themed web application for tracking real-time cryptocurrency 
 
 ---
 
+## LIVE DEMO:
+https://vercel.com/eshaalakshmids-projects/coin-cove
+---
+
 ## Screenshots
 <img width="2500" height="1122" alt="2" src="https://github.com/user-attachments/assets/ef1eeec7-4c7d-4f18-a0c7-6002c3039c3e" />
 <img width="2518" height="1090" alt="1" src="https://github.com/user-attachments/assets/d248f2bc-203c-4912-98fd-3f6049b7ca0c" />
