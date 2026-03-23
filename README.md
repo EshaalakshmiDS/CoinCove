@@ -4,8 +4,8 @@ A responsive, dark-themed web application for tracking real-time cryptocurrency 
 
 ---
 
-## LIVE DEMO:
-https://vercel.com/eshaalakshmids-projects/coin-cove
+
+[Live Demo](https://coin-cove.vercel.app/)
 ---
 
 ## Screenshots
